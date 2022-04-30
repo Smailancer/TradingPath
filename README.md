@@ -1,19 +1,23 @@
 
 # طريقك لتعلم التداول :
 
-## تعلم تداول العملات الرقمية :
+## 1) تعلم تداول العملات الرقمية :
+
+### أولا الأساسيات :
 
 - تدخل لهذا الموقع : [إضغط هنا](https://igeniusglobal.vip/free/)
 - تختار LearnLive Cryptocurrency
+- محاضرة 01 الى 11 : أساسيات الكريبتو
+- محاضرة 12 إلى 29 : أساسيات التحليل الفني
+- محاضرة 30 إلى 50: مستوى متوسط
 
-- - محاضرة 01 الى 11 : أساسيات الكريبتو
-- - محاضرة 12 إلى 29 : أساسيات التحليل الفني
-- - محاضرة 30 إلى 50: مستوى متوسط
+
+### ثانيا المستوى المتوسط :
 
 - بعدها تدرس دورة برايس اكشن : [إضغط هنا](https://drive.google.com/drive/folders/13WPbfcSSlWlcTpGMqwri2_fOvfUmJxgs)
 
 
-## تعلم تداول الفوركس
+## 2) تعلم تداول الفوركس
 
 ### أولا الأساسيات :
 
@@ -38,7 +42,7 @@
 - بعدها تدرس دورة برايس اكشن : [إضغط هنا](https://drive.google.com/drive/folders/13WPbfcSSlWlcTpGMqwri2_fOvfUmJxgs)
 
 
-## المستوى المتقدم :  
+## 3) المستوى المتقدم :  
 
 بعد أن تنتهي من الأساسيات و التحليل الفني و المستوى المتوسط سواء فوركس أو كريبتو يجب ان تختار إستراتيجية متقدمة لتعمل عليها فيما يلي إستراتيجيتين :
 
@@ -55,11 +59,11 @@
 - [إضغط هنا](https://drive.google.com/drive/folders/1J_dTyVo4E_l5nywnWsbXvhXpWujwFfJq)
 - أدوات و منصات مهمة : [هنا](https://youtube.com/playlist?list=PLeGIFMaNTxlcEMXoxUBrysflgOvH2FTz2)
 
-> و للمزيد من الاستراتيجيات المتقدمة يمكنك متابعة هذه القنوات :
 
-- [Dz Trading Academy Library](https://t.me/maktbadz)
-- [Professional Trading Library](https://t.me/joinchat/AAAAAFTIBCuXo-zhS-GXSA)
-- [I GO FOREX](https://t.me/coursesforex)
-- [Forex Course Free](https://t.me/forexcourse1234)
-- [ICT Leaked Courses](https://t.me/ICT_Leaked_Courses)
+ > و للمزيد من الاستراتيجيات المتقدمة يمكنك متابعة هذه القنوات :
 
+> - [Dz Trading Academy Library](https://t.me/maktbadz)
+> - [Professional Trading Library](https://t.me/joinchat/AAAAAFTIBCuXo-zhS-GXSA)
+> - [I GO FOREX](https://t.me/coursesforex)
+> - [Forex Course Free](https://t.me/forexcourse1234)
+> - [ICT Leaked Courses](https://t.me/ICT_Leaked_Courses)
